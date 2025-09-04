@@ -10,7 +10,12 @@ This portfolio showcases selected projects from my academic and personal work.
 *Decentralized navigation in unknown environment*  
 - **Tech:** C++, ARGOS  
 - **Highlights:**   
-- ![demo](assets/argos.mp4)
+
+
+https://github.com/user-attachments/assets/df02d012-5640-4c4e-9669-8fd1a7f8d3b7
+
+
+
 
 ---
 
@@ -18,7 +23,9 @@ This portfolio showcases selected projects from my academic and personal work.
 *Generalized motion planner for moving a target box between randomized postions.*  
 - **Tech:** MuJoCo, Python 
 - **Highlights:** 
-- ![demo](assets/xarm7.mp4)
+
+
+https://github.com/user-attachments/assets/6992fafd-2032-4852-a9cb-f24e28fab1cc
 
 
 ---
