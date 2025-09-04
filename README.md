@@ -30,6 +30,20 @@ https://github.com/user-attachments/assets/6992fafd-2032-4852-a9cb-f24e28fab1cc
 
 ---
 
+### [Potential-field based area coverage](https://github.com/yourusername/project2)
+*Implentation of an algorithm to effeciently spread a swarm in an unknown area.*  
+- **Tech:** Python, pygame 
+- **Highlights:** 
+
+---
+
+### [Augmented Reality display](https://github.com/yourusername/project2)
+*Using computer vision to align navigational directions with the plane of the road*  
+- **Tech:** Python, OpenCV
+- **Highlights:** 
+
+---
+
 ## Skills & Tools
 - **Languages:** Python, C++, JavaScript  
 - **Robotics/AI:** ROS, PyTorch, TensorFlow, OpenCV  
