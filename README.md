@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/df02d012-5640-4c4e-9669-8fd1a7f8d3b7
 
 ---
 
-### [Robotic Arm Motion Planner](https://github.com/yourusername/project2)
+### [Robotic Arm Motion Planner](https://github.com/nolangroves/RRTMotionPlanner)
 *Generalized motion planner for moving a target box between randomized postions.*  
 - **Tech:** MuJoCo, Python 
 - **Highlights:** 
@@ -30,7 +30,7 @@ https://github.com/user-attachments/assets/6992fafd-2032-4852-a9cb-f24e28fab1cc
 
 ---
 
-### [Potential-field based area coverage](https://github.com/yourusername/project2)
+### [Potential-field based area coverage](https://github.com/nolangroves/SwarmNavigation)
 *Implentation of an algorithm to effeciently spread a swarm in an unknown area.*  
 - **Tech:** Python, pygame 
 - **Highlights:** 
@@ -44,7 +44,7 @@ https://github.com/user-attachments/assets/5215bf37-d43e-446b-8c7d-c32e2eebc2d5
 
 ---
 
-### [Augmented Reality display](https://github.com/yourusername/project2)
+### [Augmented Reality display](https://github.com/nolangroves/AugmentedRealityLaneNavigation)
 *Using computer vision to align navigational directions with the plane of the road*  
 - **Tech:** Python, OpenCV
 - **Highlights:** 
