@@ -35,12 +35,20 @@ https://github.com/user-attachments/assets/6992fafd-2032-4852-a9cb-f24e28fab1cc
 - **Tech:** Python, pygame 
 - **Highlights:** 
 
+
+https://github.com/user-attachments/assets/325ee696-2e78-438e-bdbb-880dfd6c78bd
+
+
 ---
 
 ### [Augmented Reality display](https://github.com/yourusername/project2)
 *Using computer vision to align navigational directions with the plane of the road*  
 - **Tech:** Python, OpenCV
 - **Highlights:** 
+
+
+https://github.com/user-attachments/assets/1753f8dd-c82c-4d65-8739-3a227d04e80e
+
 
 ---
 
