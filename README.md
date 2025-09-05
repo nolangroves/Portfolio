@@ -34,7 +34,9 @@ https://github.com/user-attachments/assets/df02d012-5640-4c4e-9669-8fd1a7f8d3b7
 	- Supports multiple robot models (Franka Panda, xArm7)  
 
 
-https://github.com/user-attachments/assets/6992fafd-2032-4852-a9cb-f24e28fab1cc
+
+https://github.com/user-attachments/assets/0e85d2e3-1333-4f59-bc9f-56db6cc04905
+
 
 
 ---
